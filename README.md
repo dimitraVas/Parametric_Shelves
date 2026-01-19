@@ -7,3 +7,14 @@ tthe spacing between cuts is non-uniform and controlled parametrically rather th
 Instead of applying equal divisions along the X and Y directions, the position of each cut is calculated individually, allowing variable density and spatial variation across the construction.
 The intersections between solids are computed based on material thickness and assembly logic, ensuring that the geometry can be constructed.
 
+<p align="center">
+  <img src="images/01" width="400">
+</p>
+
+<p align="center">
+  <img src="images/02" width="400">
+</p>
+
+<p align="center">
+  <img src="images/03" width="400">
+</p>
